@@ -1,17 +1,24 @@
-👋 Hello, World! I'm Kavita 🌍
-🌟 Welcome to my GitHub profile! I'm a Java Developer with 2 years of experience in software development, particularly passionate about building efficient, scalable applications and sharing my knowledge to help others on their coding journeys.
-🚀 *About Me*
-🎓 Background: Bachelor's in Computer Science & Engineering
-💻 Languages: Java, Python, C++, JavaScript
-🔧 Frameworks: Spring Boot, MERN Stack
-📊 Skills: Problem-solving, debugging, and crafting optimized code
-🎯 Focus Areas: Backend development, microservices, and testing automation
+👋 Hi, I'm Kavita Chauhan!
 
-🌱 Current Learning & Goals
-📚 Mastering Advanced Java and Python for complex backend solutions
-🔄 Diving deeper into MERN Stack and Microservices architecture
-🧩 Solving competitive coding challenges regularly
-🌐 Connect with Me
-💼 LinkedIn:-https://www.linkedin.com/in/kavita-chauhan-b9a1a021b/
+🚀 Aspiring AI/ML Engineer passionate about building practical AI applications, intelligent agents, and scalable software solutions.
+
+🎓 Bachelor's in Computer Science & Engineering
+
+💻 **Tech Stack:** Python, Java, C++, JavaScript, SQL
+
+🤖 **AI/ML & Agentic AI:** LangChain, LLMs, AI Agents, RAG, Prompt Engineering, Tool Calling
+
+🔧 **Backend & Development:** Flask, REST APIs, Git, GitHub
+
+🗄️ **Databases & Cloud:** PostgreSQL, Pinecone, Docker, Render
+
+🛠️ **Projects:** Medical Chatbot | TripMate-AI (AI Travel Agent)
+
+🌱 Currently exploring Agentic AI, Multi-Agent Systems, MCP, AI-powered automation, and production-ready AI applications.
+
+🎯 My goal is to build intelligent systems that solve real-world problems and continuously grow as an AI Engineer.
+
+💼 LinkedIn: https://www.linkedin.com/in/kavita-chauhan-b9a1a021b/
+
 📫 Email: kavitachauhan0212@gmail.com
 
